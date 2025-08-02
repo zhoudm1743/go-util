@@ -1,12 +1,13 @@
-package six
+package mule
 
 import (
 	"fmt"
-	"golang.org/x/exp/constraints"
 	"strconv"
 	"strings"
 	"unicode"
 	"unicode/utf8"
+
+	"golang.org/x/exp/constraints"
 )
 
 type XStr string

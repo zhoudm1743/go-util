@@ -1,9 +1,10 @@
-package six
+package mule
 
 import (
 	"fmt"
-	"golang.org/x/exp/constraints"
 	"strconv"
+
+	"golang.org/x/exp/constraints"
 )
 
 type Number interface {

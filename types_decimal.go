@@ -1,4 +1,4 @@
-package six
+package mule
 
 import "github.com/shopspring/decimal"
 

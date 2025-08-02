@@ -1,10 +1,11 @@
-package six
+package mule
 
 import (
 	"fmt"
-	"golang.org/x/exp/constraints"
 	"slices"
 	"strings"
+
+	"golang.org/x/exp/constraints"
 )
 
 type XArray[T constraints.Ordered] []T
