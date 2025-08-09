@@ -1,4 +1,4 @@
-package mule
+package types
 
 import "strconv"
 
